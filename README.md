@@ -28,3 +28,6 @@ Verwenden Sie hierzu folgende Hardware.
 
 ![HTL Weiz Arduino Shield](https://github.com/htlweiz/logicAndCount/blob/master/Foto%2019-01-20%2020-29-05%200418.jpg)
 
+# Software
+
+Verwenden Sie das Atmel-Studio zur Implementation Ihrer Lösung.
